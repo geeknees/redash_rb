@@ -1,8 +1,8 @@
 # RedashRb
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/redash_rb`. To experiment with that code, run `bin/console` for an interactive prompt.
+[![Build Status](https://travis-ci.org/geeknees/redash_rb.svg?branch=master)](https://travis-ci.org/geeknees/redash_rb)
 
-TODO: Delete this and the text above, and describe your gem
+A Ruby client for Redash APIs.
 
 ## Installation
 
