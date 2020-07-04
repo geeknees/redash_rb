@@ -22,7 +22,23 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+#### Configure 
+
+```ruby
+require 'redash_rb'
+
+Redash.configure do | config |
+   config.host = 'https://app.redash.io/<slug>'
+   config.api_token = '<api_token>'
+end
+```
+
+#### API call
+
+```ruby
+client = Redash.client
+client.get('/<slug>/api/queries')
+```
 
 ## Development
 

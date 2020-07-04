@@ -1,8 +1,8 @@
-require_relative 'lib/redash_rb/version'
+require_relative 'lib/redash/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "redash_rb"
-  spec.version       = RedashRb::VERSION
+  spec.version       = Redash::VERSION
   spec.authors       = ["Masumi Kawasaki"]
   spec.email         = ["mkawasaki@sbihg.co.jp"]
 
@@ -24,4 +24,5 @@ Gem::Specification.new do |spec|
   spec.bindir        = "exe"
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
+  spec.add_dependency 'faraday'
 end
