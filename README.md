@@ -37,8 +37,10 @@ end
 
 ```ruby
 client = Redash.client
-client.get('/<slug>/api/queries')
+client.get('api/queries')
 ```
+
+
 
 ## Development
 
