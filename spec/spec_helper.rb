@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "redash_rb"
+require "redash"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

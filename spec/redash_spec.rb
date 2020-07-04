@@ -1,6 +1,6 @@
-RSpec.describe RedashRb do
+RSpec.describe Redash do
   it "has a version number" do
-    expect(RedashRb::VERSION).not_to be nil
+    expect(Redash::VERSION).not_to be nil
   end
 
   it "does something useful" do
