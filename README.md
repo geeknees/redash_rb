@@ -1,6 +1,6 @@
-# RedashRb
-
 [![Build Status](https://travis-ci.org/geeknees/redash_rb.svg?branch=master)](https://travis-ci.org/geeknees/redash_rb)
+
+# RedashRb
 
 A Ruby client for Redash APIs.
 
