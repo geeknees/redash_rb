@@ -7,6 +7,7 @@ require 'simplecov-cobertura'
 
 if ENV['CI']
   SimpleCov.formatter = SimpleCov::Formatter::CoberturaFormatter
+  SimpleCov.start
 else
   SimpleCov.start do
     enable_coverage :branch
