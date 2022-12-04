@@ -1,4 +1,9 @@
-[![Build Status](https://travis-ci.org/geeknees/redash_rb.svg?branch=master)](https://travis-ci.org/geeknees/redash_rb)
+[![Gem Version](https://badge.fury.io/rb/redash_rb.svg)](https://badge.fury.io/rb/redash_rb)
+[![CI](https://github.com/geeknees/redash_rb/actions/workflows/main.yml/badge.svg)](https://github.com/geeknees/redash_rb/actions/workflows/main.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ecbca1905ee670127346/maintainability)](https://codeclimate.com/github/geeknees/redash_rb/maintainability)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/geeknees/redash_rb)
+![GitHub](https://img.shields.io/github/license/geeknees/redash_rb)
+
 
 # RedashRb
 
@@ -22,7 +27,7 @@ Or install it yourself as:
 
 ## Usage
 
-#### Configure 
+#### Configure
 
 ```ruby
 require 'redash_rb'
