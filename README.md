@@ -1,5 +1,6 @@
 [![Gem Version](https://badge.fury.io/rb/redash_rb.svg)](https://badge.fury.io/rb/redash_rb)
 [![CI](https://github.com/geeknees/redash_rb/actions/workflows/main.yml/badge.svg)](https://github.com/geeknees/redash_rb/actions/workflows/main.yml)
+[![codecov](https://codecov.io/gh/geeknees/redash_rb/branch/master/graph/badge.svg?token=1ZHTIP3SG1)](https://codecov.io/gh/geeknees/redash_rb)
 [![Maintainability](https://api.codeclimate.com/v1/badges/ecbca1905ee670127346/maintainability)](https://codeclimate.com/github/geeknees/redash_rb/maintainability)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/geeknees/redash_rb)
 ![GitHub](https://img.shields.io/github/license/geeknees/redash_rb)
